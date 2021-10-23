@@ -1,6 +1,6 @@
 class GrapheMatriceAdjacence{
     constructor(n){
-        /*
+        /* 
         -> n (int) : taille de la matrice d'adjacence
         -> this.matAdj (list) : matrice d'adjacence
         */
